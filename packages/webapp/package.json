@@ -1,9 +1,9 @@
 {
   "name": "@monorepo/webapp",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "dependencies": {
-    "@monorepo/components": "1.0.0",
-    "@monorepo/core": "1.0.0",
+    "@monorepo/components": "^0.1.0",
+    "@monorepo/core": "^0.1.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
